@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Zhang Y.H. 👋</h1>
+<h1 align="center">Zhang Y.H. 👋</h1>
 
-<p align="center"><strong>自然资源 · 遥感 · 测绘 · GIS · Python · QGIS</strong></p>
+<p align="center"><strong>自然资源 · 遥感 · 测绘 · GIS</strong></p>
 
 <p align="center">
   <a href="./README.md">🇺🇸 English</a> · <a href="./README_CN.md"><b>🇨🇳 中文</b></a>
@@ -23,7 +23,14 @@
 
 ## 🧭 主要研究领域
 
-`自然资源调查与监测` · `遥感影像智能解译` · `不动产与自然资源确权登记` · `地籍调查` · `大地测量` · `摄影测量` · `GIS` · `政策法规与技术标准`
+<p>
+  <img src="https://img.shields.io/badge/自然资源-调查与监测-2E7D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/遥感影像-智能解译-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/确权登记-地籍调查-6A1B9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/大地测量-摄影测量-00838F?style=flat-square" />
+  <img src="https://img.shields.io/badge/GIS-空间数据处理-455A64?style=flat-square" />
+  <img src="https://img.shields.io/badge/政策法规-技术标准-C77800?style=flat-square" />
+</p>
 
 ## 🧩 开源项目
 
@@ -55,4 +62,4 @@
 
 <p align="center"><b>微信公众号：测绘地信 · 知识星球</b></p>
 
-<p align="center">GitHub：<a href="https://github.com/zhangyhrs">@zhangyhrs</a> · Email：<code>cumtzyh@gmail.com</code></p>
+<p align="center">GitHub：<a href="https://github.com/zhangyhrs">@zhangyhrs</a></p>
