@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Zhang Y.H. 👋</h1>
 
-<p align="center">
-  <strong>自然资源 · 遥感 · 测绘 · GIS · Python · QGIS</strong>
-</p>
+<p align="center"><strong>Natural Resources · Remote Sensing · Surveying · GIS · Python · QGIS</strong></p>
 
 <p align="center">
-  <a href="./README.md"><b>🇨🇳 中文</b></a> · <a href="./README_EN.md">🇺🇸 English</a>
+  <a href="./README.md"><b>🇺🇸 English</b></a> · <a href="./README_CN.md">🇨🇳 中文</a>
 </p>
 
 <p align="center">
@@ -19,47 +17,42 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
----
+## 👨‍💻 About Me
 
-## 👨‍💻 关于我
+I work mainly in **natural resources survey and monitoring, intelligent remote sensing image interpretation, real estate and natural resources registration, geodesy, photogrammetry, and GIS**. I also focus on **policies, regulations, technical standards, and industry specifications in the natural resources domain**, and develop practical QGIS plugins and geospatial automation tools.
 
-我主要从事 **自然资源调查与监测、遥感影像智能解译、不动产与自然资源确权登记、大地测量、摄影测量、GIS** 等相关工作，并持续将实际业务需求转化为可复用的软件工具、QGIS 插件和自动化处理程序。
+## 🧭 Research Interests
 
-同时关注 **自然资源领域政策法规、技术标准、行业规范及其工程化应用**，重点结合自然资源调查监测、地籍调查、确权登记、遥感与测绘生产实际开展技术研究与工具开发。
+`Natural Resources Survey & Monitoring` · `Remote Sensing & GeoAI` · `Real Estate & Natural Resources Registration` · `Cadastral Surveying` · `Geodesy` · `Photogrammetry` · `GIS` · `Policies & Technical Standards`
 
----
-
-## 🧭 主要研究领域
-
-- 自然资源调查与监测
-- 遥感影像智能解译与 GeoAI
-- 不动产与自然资源确权登记
-- 地籍调查与数据库处理
-- 大地测量与摄影测量
-- GIS 与空间数据处理
-- 自然资源政策法规与技术标准
-- QGIS 插件与 GIS 自动化工具开发
-
----
-
-## 🧩 开源项目
+## 🧩 Open-source Projects
 
 <p>
-  <a href="https://github.com/zhangyhrs/GeoStar-Selector-QGIS"><img src="https://img.shields.io/badge/GeoStar_Selector-QGIS_Plugin-589632?style=for-the-badge&logo=qgis&logoColor=white" /></a>
-  <a href="https://github.com/zhangyhrs/SHP-TXT-Converter-QGIS"><img src="https://img.shields.io/badge/SHP--TXT_Converter-QGIS_Plugin-589632?style=for-the-badge&logo=qgis&logoColor=white" /></a>
-</p>
-<p>
-  <a href="https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS"><img src="https://img.shields.io/badge/DEM_DebrisFlow-Gradient-16837A?style=for-the-badge" /></a>
-  <a href="https://github.com/zhangyhrs/SHP2KMZ_Tool"><img src="https://img.shields.io/badge/SHP2KMZ-Surveying_Tool-0A66C2?style=for-the-badge" /></a>
-  <a href="https://github.com/zhangyhrs/map_tile_downloader"><img src="https://img.shields.io/badge/Map_Tile-Downloader-7B61FF?style=for-the-badge" /></a>
+  <a href="https://github.com/zhangyhrs/GeoStar-Selector-QGIS"><img src="https://img.shields.io/badge/GeoStar_Selector-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" /></a>
+  <a href="https://github.com/zhangyhrs/SHP-TXT-Converter-QGIS"><img src="https://img.shields.io/badge/SHP--TXT_Converter-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" /></a>
+  <a href="https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS"><img src="https://img.shields.io/badge/DEM_DebrisFlow-Gradient-16837A?style=flat-square" /></a>
+  <a href="https://github.com/zhangyhrs/SHP2KMZ_Tool"><img src="https://img.shields.io/badge/SHP2KMZ-Surveying_Tool-0A66C2?style=flat-square" /></a>
+  <a href="https://github.com/zhangyhrs/map_tile_downloader"><img src="https://img.shields.io/badge/Map_Tile-Downloader-7B61FF?style=flat-square" /></a>
 </p>
 
-更多项目将持续围绕 **遥感智能解译、自然资源调查监测、地籍数据库、确权登记、测绘生产与 GIS 自动化** 进行整理和发布。
+## 🐍 Contribution Snake
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangyhrs/zhangyhrs/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhangyhrs/zhangyhrs/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/zhangyhrs/zhangyhrs/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-## 📬 联系方式
+## 📬 Connect
 
-**GitHub**：[@zhangyhrs](https://github.com/zhangyhrs) · **Email**：`cumtzyh@gmail.com` · **微信公众号**：测绘地信
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-official-account.png" width="190" alt="WeChat Official Account" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/knowledge-planet.jpg" width="190" alt="Knowledge Planet" />
+</p>
 
-<p align="center"><b>欢迎关注、使用和 Star ⭐</b></p>
+<p align="center"><b>WeChat Official Account: 测绘地信 · Knowledge Planet</b></p>
+
+<p align="center">GitHub: <a href="https://github.com/zhangyhrs">@zhangyhrs</a> · Email: <code>cumtzyh@gmail.com</code></p>
