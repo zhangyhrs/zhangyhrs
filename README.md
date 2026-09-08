@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Zhang Y.H. 👋</h1>
+<h1 align="center">Zhang Y.H. 👋</h1>
 
-<p align="center"><strong>Natural Resources · Remote Sensing · Surveying · GIS · Python · QGIS</strong></p>
+<p align="center"><strong>Natural Resources · Remote Sensing · Surveying · GIS</strong></p>
 
 <p align="center">
   <a href="./README.md"><b>🇺🇸 English</b></a> · <a href="./README_CN.md">🇨🇳 中文</a>
@@ -23,7 +23,14 @@ I work mainly in **natural resources survey and monitoring, intelligent remote s
 
 ## 🧭 Research Interests
 
-`Natural Resources Survey & Monitoring` · `Remote Sensing & GeoAI` · `Real Estate & Natural Resources Registration` · `Cadastral Surveying` · `Geodesy` · `Photogrammetry` · `GIS` · `Policies & Technical Standards`
+<p>
+  <img src="https://img.shields.io/badge/Natural_Resources-Survey_%26_Monitoring-2E7D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Remote_Sensing-GeoAI-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Registration-Cadastral_Surveying-6A1B9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Geodesy-Photogrammetry-00838F?style=flat-square" />
+  <img src="https://img.shields.io/badge/GIS-Geospatial_Processing-455A64?style=flat-square" />
+  <img src="https://img.shields.io/badge/Policies-Technical_Standards-C77800?style=flat-square" />
+</p>
 
 ## 🧩 Open-source Projects
 
@@ -55,4 +62,4 @@ I work mainly in **natural resources survey and monitoring, intelligent remote s
 
 <p align="center"><b>WeChat Official Account: 测绘地信 · Knowledge Planet</b></p>
 
-<p align="center">GitHub: <a href="https://github.com/zhangyhrs">@zhangyhrs</a> · Email: <code>cumtzyh@gmail.com</code></p>
+<p align="center">GitHub: <a href="https://github.com/zhangyhrs">@zhangyhrs</a></p>
