@@ -45,6 +45,8 @@ I work mainly in **natural resources survey and monitoring, intelligent remote s
 <a href="https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS"><img src="https://img.shields.io/badge/DEM_DebrisFlow-Gradient-16837A?style=flat-square" /></a>
 <a href="https://github.com/zhangyhrs/SHP2KMZ_Tool"><img src="https://img.shields.io/badge/SHP2KMZ-Surveying_Tool-0A66C2?style=flat-square" /></a>
 <a href="https://github.com/zhangyhrs/map_tile_downloader"><img src="https://img.shields.io/badge/Map_Tile-Downloader-7B61FF?style=flat-square" /></a>
+<a href="https://github.com/zhangyhrs/Natural-Resources-Standards-and-Specifications"><img src="https://img.shields.io/badge/Natural_Resources-Standards_%26_Specifications-C77800?style=flat-square" /></a>
+<a href="https://github.com/zhangyhrs/ArcGIS-Sliver-Polygon-Tools"><img src="https://img.shields.io/badge/ArcGIS-Sliver_Polygon_Tools-007AC2?style=flat-square" /></a>
 
 </div>
 
