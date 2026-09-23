@@ -56,20 +56,19 @@ I work mainly in **natural resources survey and monitoring, intelligent remote s
 
 <table align="center">
   <tr>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-official-account.png" width="185" alt="WeChat Official Account" /><br/>
-      <b>WeChat Official Account</b><br/>
-      测绘地信
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-mini-program.jpg" width="185" alt="WeChat Mini Program: 测绘地信" /><br/>
-      <b>WeChat Mini Program</b><br/>
-      测绘地信
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/knowledge-planet.jpg" width="185" alt="Knowledge Planet" /><br/>
-      <b>Knowledge Planet</b>
-    </td>
+    <th width="33%">微信公众号</th>
+    <th width="33%">微信小程序</th>
+    <th width="33%">知识星球</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-official-account.png" alt="微信公众号：测绘地信" height="150"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-mini-program.jpg" alt="微信小程序：测绘地信" height="150"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" height="150"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>测绘地信</b></td>
+    <td align="center"><b>测绘地信</b></td>
+    <td align="center"><b>测绘地理信息共享中心</b></td>
   </tr>
 </table>
 
