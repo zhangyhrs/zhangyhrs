@@ -56,12 +56,18 @@ I work mainly in **natural resources survey and monitoring, intelligent remote s
 
 <table align="center">
   <tr>
-    <td align="center" width="240">
+    <td align="center" width="220">
       <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-official-account.png" width="185" alt="WeChat Official Account" /><br/>
       <b>WeChat Official Account</b><br/>
       测绘地信
     </td>
-    <td align="center" width="240">
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/WeChat_Mini_Program-测绘地信-07C160?style=for-the-badge&logo=wechat&logoColor=white" width="185" alt="WeChat Mini Program: 测绘地信" /><br/>
+      <b>WeChat Mini Program</b><br/>
+      测绘地信<br/>
+      <sub>Search “测绘地信” in WeChat</sub>
+    </td>
+    <td align="center" width="220">
       <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/knowledge-planet.jpg" width="185" alt="Knowledge Planet" /><br/>
       <b>Knowledge Planet</b>
     </td>
