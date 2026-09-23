@@ -56,21 +56,14 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-official-account.png" width="185" alt="微信公众号：测绘地信" /><br/>
-      <b>微信公众号</b><br/>
-      测绘地信
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/微信小程序-测绘地信-07C160?style=for-the-badge&logo=wechat&logoColor=white" width="185" alt="微信小程序：测绘地信" /><br/>
-      <b>微信小程序</b><br/>
-      测绘地信<br/>
-      <sub>微信搜索“测绘地信”</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/knowledge-planet.jpg" width="185" alt="知识星球" /><br/>
-      <b>知识星球</b>
-    </td>
+    <th width="33%">WeChat Official Account<br>微信公众号：测绘地信</th>
+    <th width="33%">WeChat Mini Program<br>微信小程序：测绘地信</th>
+    <th width="33%">Knowledge Planet<br>知识星球：测绘地理信息共享中心</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-official-account.png" alt="微信公众号：测绘地信" height="150"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-mini-program.jpg" alt="微信小程序：测绘地信" height="150"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" height="150"></td>
   </tr>
 </table>
 
