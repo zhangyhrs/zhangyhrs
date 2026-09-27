@@ -38,15 +38,28 @@ I work mainly in **natural resources survey and monitoring, intelligent remote s
 
 ## 🧩 Open-source Projects
 
+### QGIS Plugins
+
 <div align="center">
 
 <a href="https://github.com/zhangyhrs/GeoStar-Selector-QGIS"><img src="https://img.shields.io/badge/GeoStar_Selector-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" /></a>
 <a href="https://github.com/zhangyhrs/SHP-TXT-Converter-QGIS"><img src="https://img.shields.io/badge/SHP--TXT_Converter-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" /></a>
-<a href="https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS"><img src="https://img.shields.io/badge/DEM_DebrisFlow-Gradient-16837A?style=flat-square" /></a>
+<a href="https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS"><img src="https://img.shields.io/badge/DEM_DebrisFlow-Gradient-16837A?style=flat-square&logo=qgis&logoColor=white" /></a>
+<a href="https://github.com/zhangyhrs/HydroSHEDS-Downloader-QGIS"><img src="https://img.shields.io/badge/HydroSHEDS-Downloader-16837A?style=flat-square&logo=qgis&logoColor=white" /></a>
+<a href="https://github.com/zhangyhrs/MultiSource-Imagery-Downloader-QGIS"><img src="https://img.shields.io/badge/MultiSource_Imagery-Downloader-1565C0?style=flat-square&logo=qgis&logoColor=white" /></a>
+<a href="https://github.com/zhangyhrs/MultiSource-DEM-Downloader-QGIS"><img src="https://img.shields.io/badge/MultiSource_DEM-Downloader-00838F?style=flat-square&logo=qgis&logoColor=white" /></a>
+
+</div>
+
+### GIS Tools & Resources
+
+<div align="center">
+
 <a href="https://github.com/zhangyhrs/SHP2KMZ_Tool"><img src="https://img.shields.io/badge/SHP2KMZ-Surveying_Tool-0A66C2?style=flat-square" /></a>
 <a href="https://github.com/zhangyhrs/map_tile_downloader"><img src="https://img.shields.io/badge/Map_Tile-Downloader-7B61FF?style=flat-square" /></a>
-<a href="https://github.com/zhangyhrs/Natural-Resources-Standards-and-Specifications"><img src="https://img.shields.io/badge/Natural_Resources-Standards_%26_Specifications-C77800?style=flat-square" /></a>
 <a href="https://github.com/zhangyhrs/ArcGIS-Sliver-Polygon-Tools"><img src="https://img.shields.io/badge/ArcGIS-Sliver_Polygon_Tools-007AC2?style=flat-square" /></a>
+<a href="https://github.com/zhangyhrs/Natural-Resources-Standards-and-Specifications"><img src="https://img.shields.io/badge/Natural_Resources-Standards_%26_Specifications-C77800?style=flat-square" /></a>
+<a href="https://github.com/zhangyhrs/CeHuiDiXin-WeChat-MiniProgram"><img src="https://img.shields.io/badge/CeHuiDiXin-WeChat_Mini_Program-07C160?style=flat-square&logo=wechat&logoColor=white" /></a>
 
 </div>
 
